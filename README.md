@@ -9,24 +9,24 @@ Automatically translates the English summary into Hindi.
 Markdown Display: Outputs summaries in Markdown for clean, professional formatting.
 Customizable: Easily extendable for additional languages or functionalities.
 
-##🚀 Technologies Used
+## 🚀 Technologies Used
 Python: Core programming language.
 BeautifulSoup: For efficient web scraping.
 ollama.chat API: Utilized for LLM-powered summarization and translation.
 Jupyter Notebook: For development and demonstration.
 IPython Display: To render formatted Markdown outputs.
 
-##📂 File Overview
+## 📂 File Overview
 Web Summarization LLM.ipynb: The main notebook containing all the code for scraping, summarizing, and displaying results.
 requirements.txt: List of dependencies to run this project seamlessly.
 README.md: Project overview and instructions.
 
-##🌟 Highlights
+## 🌟 Highlights
 Real-Time Summarization: Generates summaries instantly from live web content.
 Hindi Translation: Adds accessibility for Hindi-speaking users, making this tool versatile.
 Markdown Rendering: Ensures the summaries are presented professionally.
 
-##🤔 Why Use This Project?
+## 🤔 Why Use This Project?
 Language Accessibility: Breaks language barriers with Hindi support.
 Educational Applications: Great for learning summarization techniques or experimenting with LLMs.
 Versatile Use Cases: Ideal for bloggers, researchers, and content creators.
